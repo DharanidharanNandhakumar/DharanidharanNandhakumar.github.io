@@ -10,8 +10,8 @@ enableGitInfo = false
 [params]
 address = "Coimbatore, India"
 favicon = "/favicon.ico"
-firstName = "Dharani"
-lastName = "Dharan"
+firstName = "Dharani Dharan"
+lastName = "Nandhakumar"
 phone = "1-555-555-1234"
 showSocializations = true
 showContact = false
@@ -28,7 +28,7 @@ link = "https://www.linkedin.com/in/Dharanidharan N/"
 name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/dharanidharan/"
+link = "https://github.com/DharanidharanNandhakumar/"
 name = "GitHub"
 
 [outputs]
